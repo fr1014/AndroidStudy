@@ -20,6 +20,7 @@ import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.interpolator.view.animation.FastOutSlowInInterpolator;
 
+import com.study.customview.R;
 import com.study.utils.DimenUtils;
 
 /**
